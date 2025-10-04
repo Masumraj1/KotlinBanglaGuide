@@ -34,6 +34,35 @@
 ### Q9: Kotlin এর অনলাইন প্র্যাকটিস করার জন্য কোন প্ল্যাটফর্ম আছে?  
 **A9:** হ্যাঁ, **Kotlin Playground** এর মাধ্যমে অনলাইনে কোড লেখা ও পরীক্ষা করা যায়।  
 
+### Q10: LTS (Long-Term Support) বলতে কী বোঝায়? 
+**A10:**  LTS মানে: এমন Java সংস্করণ, যেটিতে কয়েক বছর ধরে নিরাপত্তা আপডেট, বাগ ফিক্স ও প্যাচ সাপোর্ট দেওয়া হয়।
+
+### Q11:  Kotlin কোড রান করতে JDK কেন প্রয়োজন?
+**A11:** কারণ Kotlin হলো JVM-ভিত্তিক ভাষা। তুমি যখন Kotlin কোড লিখো, সেটি Java bytecode-এ কম্পাইল হয়,
+        আর সেই bytecode JVM (Java Virtual Machine) দিয়ে চালানো হয়। JVM আসে JDK-এর সঙ্গে, তাই JDK ইনস্টল ছাড়া Kotlin কোড রান হয় না।
+
+### Q12: Kotlin-এ program execution শুরু করার entry point কোন function?
+**A12: Kotlin-এ entry point হলো main function।অথবা arguments সহ
+
+### Q13: Kotlin project-এ src ফোল্ডারের প্রধান কাজ কী?
+**A13: src হলো source folder, যেখানে project-এর সব source code রাখা হয়।
+
+
+### Q14: package কি এবং Kotlin-এ package ব্যবহারের মূল সুবিধা কী কী?
+**A14: Package হলো code organize করার একটি system।
+
+### Q15: নিচের comment tag গুলোর কাজ কী? @author @param @return
+**A15:
+@author → কোড লিখেছেন কারা তা দেখানোর জন্য।
+@param → Function parameter গুলোর উদ্দেশ্য বা ব্যাখ্যা বোঝাতে।
+@return → Function return value কী তা ব্যাখ্যা করতে।
+
+### Q16: KDoc comment সাধারণ multi-line comment থেকে কীভাবে আলাদা?
+**A16: 
+KDoc comment /** ... */ দিয়ে লেখা হয় এবং special tags ব্যবহার করা যায়।
+সাধারণ multi-line comment /* ... */ শুধুমাত্র কোডের মধ্যে note বা explanation এর জন্য।
+
+
 ---
 
 ## ⚡ Features
