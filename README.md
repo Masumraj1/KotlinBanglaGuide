@@ -1,7 +1,7 @@
 ## Kotlin Q&A (বাংলা)
 
-Q1: Kotlin কোন প্ল্যাটফর্মে চলে?
-A1: Kotlin মূলত JVM (Java Virtual Machine) এ চলে।
+### Q1: Kotlin কোন প্ল্যাটফর্মে চলে?
+### A1: Kotlin মূলত JVM (Java Virtual Machine) এ চলে।
 
 Q2: Kotlin কে তৈরি করেছে?
 A2: Kotlin তৈরি করেছে JetBrains।
