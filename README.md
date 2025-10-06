@@ -178,7 +178,40 @@ String (nullable)
 User থেকে এক লাইনে দুইটি সংখ্যা নেওয়ার জন্য Kotlin-এ কোন method ব্যবহার করা যায়?
 readLine()!!.split(" ") দিয়ে string split করে এবং individual conversion করা যায়।
 
+//OParetor
+* Kotlin-এ Mathematical (Arithmetic) Operators = +, -, * , / , %
+* Relational Operators in Kotlin
+  == সমান কি না (Equal to)
+  !=  সমান নয় কি না (Not equal to)(asoman )
+  >= বড় বা সমান কি না
+  <= ছোট বা সমান কি না
+  >
+  <
+* Assignment Operators
+  =  মান অ্যাসাইন করা (Assign value)
+  += যোগ করে মান রাখা
+  -= বিয়োগ করে মান রাখা
+  *= গুণ করে মান রাখা
+  /= ভাগ করে মান রাখা
+  %= ভাগশেষ রেখে মান রাখা
 
+ * Unary Operators in Kotlin
+   +a = ধনাত্মক চিহ্ন (Unary plus)
+   -a = ঋণাত্মক চিহ্ন (Unary minus)
+  ++a = প্রি-ইনক্রিমেন্ট (১ বাড়ায় আগে)
+   a++= পোস্ট-ইনক্রিমেন্ট (১ বাড়ায় পরে)
+   --a= প্রি-ডিক্রিমেন্ট (১ কমায় আগে)
+  a-- পোস্ট-ডিক্রিমেন্ট (১ কমায় পরে)
+   !a লজিকাল NOT (Boolean উল্টায়)
+
+  * Kotlin Logical Operators
+    &&  = Logical AND – সব condition true হলে true হয়
+      ! = Logical NOT – শর্ত উল্টে দেয় [!(a > 5)     যদি a > 5 হয় true, তাহলে এটি false হয় ]
+    ||  = At least one condition is true
+
+  ###### Kotlin Bitwise Operators
+    
+   
 ## ⚡ Features
 
 - বাংলা ভাষায় সহজভাবে Q&A  
