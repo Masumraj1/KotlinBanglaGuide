@@ -87,6 +87,7 @@ Kotlin compiler (kotlinc) এই .kt ফাইলকে Bytecode (.class file) �
 ---Kotlin Source Code (.kt)→ Kotlin Compiler (kotlinc)→ Bytecode (.class file)→ JVM (Java Virtual Machine)→ Operating System (Windows/Mac/Linux)→ Hardware (CPU)
 
 
+
 ## Kotlin Basic ##
 
 ### Q23: val আর var এর মধ্যে পার্থক্য কী?
